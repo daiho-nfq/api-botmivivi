@@ -1,0 +1,1 @@
+alias fseed = 'php artisan migrate:fresh --seed'
